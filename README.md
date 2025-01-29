@@ -1,2 +1,2 @@
-# Creative-Artefact-An-artificial-Intelligence-Heart Diseas Analysis
+#Heart Diseas Analysis
 Creative Artefact - An  artificial Intelligence  practical project. 
